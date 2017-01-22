@@ -7,11 +7,3 @@ It is forbidden that use another person's assignment & exam answers in Coursera.
 
 ## 中文
 此项目是本人用于学习吴恩达Coursera上的《机器学习》课程时，自己完成的作业和测验答案。Coursera提倡独立完成作业和测验，禁止使用他人答案。此答案仅供参考，请勿直接使用于通过Coursera的作业和考试。
-
-$$
-\begin{aligned}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
-\end{aligned}
-$$
